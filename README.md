@@ -1,4 +1,4 @@
-## Hello word 🌎
+## Hello world 🌎
 
 Olá! Me chamo Beatriz e tenho 20 anos. Sou estudante de programação com foco em front-end e universitária em engenharia de produção.
 
